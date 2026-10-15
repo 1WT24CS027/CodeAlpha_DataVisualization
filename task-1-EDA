@@ -1,0 +1,9 @@
+# Task 1: Exploratory Data Analysis (EDA)
+
+This project explores Superstore sales data using Python, Pandas, and Matplotlib.
+
+## Notebook
+CodeAlpha_EDA.ipynb
+
+## Objective
+To understand the dataset, analyze sales patterns, and identify useful business insights.
